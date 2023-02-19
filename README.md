@@ -1,1 +1,2 @@
-# news-article-analysis
+#### News article analysis
+The goal of the project is to analyze the data collected from the web using automatic procedures and to generate new knowledge based on the discovered facts. The phase of collecting, cleaning and organizing data is followed by the second phase of analyzing this data. In the analysis process, advanced techniques for automatic data collection, algorithms for computational natural language processing, statistical analysis of the collected data, and various data modeling techniques such as representing the collected text data with low-dimensional vectors, various machine and deep learning algorithms/models, complex networks, can be used.
